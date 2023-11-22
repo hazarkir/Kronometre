@@ -1,0 +1,16 @@
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.exe
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.deps.json
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.runtimeconfig.json
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.dll
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\bin\Debug\net6.0-windows\Kronometre.pdb
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.Form1.resources
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.vbproj.GenerateResource.cache
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.AssemblyInfoInputs.cache
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.AssemblyInfo.vb
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.vbproj.CoreCompileInputs.cache
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.dll
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\refint\Kronometre.dll
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.pdb
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\Kronometre.genruntimeconfig.cache
+C:\Users\kirha\source\repos\deneme\Kronometre\Kronometre\obj\Debug\net6.0-windows\ref\Kronometre.dll
